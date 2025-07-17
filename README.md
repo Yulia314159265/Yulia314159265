@@ -22,11 +22,17 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Yulia314159265/Yulia314159265/blob/main/assets/postman-logo-astronaut-orange-circle-flat-design.png" title="postman" alt="postman" width="40" height="40" data-canonical-src="https://github.com/Yulia314159265/Yulia314159265/blob/main/assets/postman-logo-astronaut-orange-circle-flat-design.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>&nbsp;
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/52fcf468d6e62bb2c1c07d700ed593641fa43dfc4b1cf14e7eee5376b463ff94/68747470733a2f2f737461746963302e736d617274626561722e636f2f736d617274626561726272616e642f6d656469612f696d616765732f686f6d652f736f617075692d69636f6e2e737667" class=""><img src="https://camo.githubusercontent.com/52fcf468d6e62bb2c1c07d700ed593641fa43dfc4b1cf14e7eee5376b463ff94/68747470733a2f2f737461746963302e736d617274626561722e636f2f736d617274626561726272616e642f6d656469612f696d616765732f686f6d652f736f617075692d69636f6e2e737667" title="soapui" alt="soapui" width="40" height="40" data-canonical-src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>&nbsp;
 </div>
+
 ### Тестирование мобильных приложений:
+
 ![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddlera&logoColor=5CE500)
 ![Charles Proxy](https://img.shields.io/badge/-charles_proxy-090909?style=for-the-badge&logo=charles&logoColor=C7E5F0)
+
 ### Работа с данными:
+
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql&logoColor=4A7DA4)
+
 ### Работа с кодом:
+
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05539)
 
