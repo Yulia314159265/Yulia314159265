@@ -25,8 +25,11 @@
 
 ### Тестирование мобильных приложений:
 
-![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=Fiddlera&logoColor=5CE500)
-![Charles Proxy](https://img.shields.io/badge/-charles_proxy-090909?style=for-the-badge&logo=charles&logoColor=C7E5F0)
+<div dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e70b799e72de2cbcbdfc253cc4dfd3fb42eb4923972611b9e68f206b4bdff88f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/e70b799e72de2cbcbdfc253cc4dfd3fb42eb4923972611b9e68f206b4bdff88f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" title="android-studio" alt="android-studio" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" style="max-width: 100%; height: auto; max-height: 40px;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4c76cc41657552d1ec1d662f230ea45ad2b5da15e73466702f16ae433e87bb3f/68747470733a2f2f7777772e6d6567616c656563686572732e636f6d2f73746f726167652f466964646c65722d457665727977686572652d49636f6e2e706e67"><img src="https://camo.githubusercontent.com/4c76cc41657552d1ec1d662f230ea45ad2b5da15e73466702f16ae433e87bb3f/68747470733a2f2f7777772e6d6567616c656563686572732e636f6d2f73746f726167652f466964646c65722d457665727977686572652d49636f6e2e706e67" title="fiddler" alt="fiddler" width="40" height="40" data-canonical-src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" style="max-width: 100%; height: auto; max-height: 40px;"></a>&nbsp;
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/194780f1fb7ef94a0a4afb186ff4e3fe693e7ef37c7aa273e417477fa52a8ba4/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313538393631343432303736363132363038302f736c4149564474725f343030783430302e6a7067"><img src="https://camo.githubusercontent.com/194780f1fb7ef94a0a4afb186ff4e3fe693e7ef37c7aa273e417477fa52a8ba4/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313538393631343432303736363132363038302f736c4149564474725f343030783430302e6a7067" title="proxyman" alt="proxyman" width="40" height="40" data-canonical-src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" style="max-width: 100%; height: auto; max-height: 40px;"></a>&nbsp;
+</div>
 
 ### Работа с данными:
 
