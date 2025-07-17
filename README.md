@@ -23,3 +23,4 @@
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql&logoColor=4A7DA4)
 ### Работа с кодом:
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05539)
+
