@@ -5,6 +5,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2FABEB)](t.me/yulia314159)
 
 ### Тестовая документация:
+
+![Youtrack](https://github.com/Yulia314159265/Yulia314159265/blob/main/assets/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38642f596f75547261636b5f49636f6e2e7376672f3130323470782d596f75547261636b5f49636f6e2e7376672e706e673f323032.png)
+
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185FF)
 ![Youtrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=FB47B4)
 ![Test-it](https://img.shields.io/badge/-Test--it-090909?style=for-the-badge&logo=test--it&logoColor=3E79C7)
