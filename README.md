@@ -1,5 +1,9 @@
 ## Привет! Я начинающий тестировщик. 👋
 
+### Как со мной связаться:
+![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=DE5144)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2FABEB)
+
 ### Тестовая документация:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185FF)
 ![Youtrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=FB47B4)
