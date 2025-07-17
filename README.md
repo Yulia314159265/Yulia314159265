@@ -1,8 +1,8 @@
 ## Привет! Я начинающий тестировщик. 👋
 
 ### Как со мной связаться:
-![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=DE5144)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2FABEB)
+![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=DE5144)(<a href="mailto:yulliia.tor@gmail.com">yulliia.tor@gmail.com</a>)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=2FABEB)(t.me/yulia314159)
 
 ### Тестовая документация:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185FF)
