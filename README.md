@@ -1,8 +1,13 @@
 ## Привет! Я начинающий тестировщик. 👋
 
-## Резюме:
+[Резюме](https://drive.google.com/file/d/1u7PyL9UJmE5G_WeEaAXhfUSQqwJ4Uilh/view?usp=sharing)
 
-## Тестовая документация:
+### Тестовая документация:
+- Чеклист
+- Тест-кейсы
+- Баг-репорты
+- SQL запросы
+- Postman коллекции
 
 ### Как со мной связаться:
 <a href="mailto:yulliia.tor@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=DE5144)</a>
