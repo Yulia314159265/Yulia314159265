@@ -1,6 +1,6 @@
 ## Привет! Я начинающий тестировщик. 👋
 
-[Резюме](https://drive.google.com/file/d/1ucwsaW-bUd8otGA_YtTF5JsHNEiCvAQS/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1g4MnHTViOsIh4zxYhOH65mHOjwMgu7-9/view?usp=sharing)
 
 ### Тестовая документация:
 - Чеклист
